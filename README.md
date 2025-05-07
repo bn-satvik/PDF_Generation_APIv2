@@ -63,7 +63,7 @@ curl -X POST https://yourapiurl/api/pdf/generate \
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/bn-satvik/PDF_Generation_API.git
+https://github.com/bn-satvik/PDF_Generation_APIv2.git
 cd PDF-Generation-API-4
 ```
 

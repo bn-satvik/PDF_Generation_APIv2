@@ -64,7 +64,7 @@ curl -X POST https://yourapiurl/api/pdf/generate \
 
 ```bash
 https://github.com/bn-satvik/PDF_Generation_APIv2.git
-cd PDF-Generation-API-4
+cd PDF-Generation-APIv2
 ```
 
 ### 2. Restore dependencies
